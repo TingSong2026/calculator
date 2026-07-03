@@ -1,0 +1,6 @@
+# Binaries / executables
+*.exe
+
+# Python
+__pycache__/
+*.pyc
